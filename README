@@ -1,5 +1,5 @@
 H1 \cap L^2_0 is {v \in H1 such that (v, 1) = 0}. This constraint elliminates
 the zero eigenvalue of -\Delta u = u with Neuamann bcs and in turn the Poincare
-constraint holds. Sure 1 is special because (grad(v), grad(1))*dx but is this
+theorem holds. Sure 1 is special because (grad(v), grad(1))*dx=0 but is this
 the thing that makes Poincare work? I think no, any function that elliminates
 the zero eigenvalue should work. And we test this idea here.
